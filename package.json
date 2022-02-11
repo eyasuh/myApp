@@ -1,0 +1,25 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "profile-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "eyasuh"
+  },
+  "keywords": [
+    "profile-page"
+  ],
+  "author": "eyasu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "grunt": "^1.4.1",
+    "gulp": "^4.0.2",
+    "react": "^17.0.2",
+    "webpack": "^5.68.0"
+  }
+}
